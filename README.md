@@ -1,21 +1,7 @@
-## Antario - CSGO Base
+ ## Antario - CSGO Base
 
-As this base is NOT finished yet, feel free to post issues / pull requests with everything you think shoud be included. 
+This base is NOT my base, all credits to Wando.
 
-
-### Features:
-
- * D3D9 menu with automatically adjusted positions of the selectables
- * Netvar manager
- * Easy to understand VMT hooking class
- * Debug console output
- * Basic Hooking/Unhooking concept
- * Bunnyhop included (wow such feature)
- * Engine prediction with a simple tickbase fix and spread fix (for nospread servers)
-
-
-Menu is quite simple to replace (if you'd prefer imgui), just remove all calls to it from hooks.
-
-#### Screenshots:
+#### Screenshots crash:
 
 ![img1](https://i.gyazo.com/9d8a717ca9f677e2c2f2f3b7b09eeb02.png)
