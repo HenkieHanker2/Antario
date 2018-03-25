@@ -18,4 +18,4 @@ Menu is quite simple to replace (if you'd prefer imgui), just remove all calls t
 
 #### Screenshots:
 
-![img1](https://i.imgur.com/IylWr4y.png) ![img2](https://i.imgur.com/XOzmWy6.png)
+![img1](https://i.gyazo.com/9d8a717ca9f677e2c2f2f3b7b09eeb02.png)
