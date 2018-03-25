@@ -1,5 +1,5 @@
 #pragma once
-#include "../helpers/vfunc.h"
+#include "vfunc.h"
 class IPanel
 {
 public:
